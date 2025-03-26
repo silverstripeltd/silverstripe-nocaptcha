@@ -12,9 +12,9 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~4.0",
-        "silverstripe/vendor-plugin": "^1.0",
-        "silverstripe/spamprotection": "~3.0"
+        "silverstripe/framework": "^6",
+        "silverstripe/vendor-plugin": "^3",
+        "silverstripe/spamprotection": "5.0.0-beta1"
     },
     "autoload": {
 		"psr-4": {
